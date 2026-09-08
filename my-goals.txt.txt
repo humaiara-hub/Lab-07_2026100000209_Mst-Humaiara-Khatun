@@ -1,0 +1,14 @@
+my-goals.txt
+
+
+my-goals.txt
+Write at least three goals.
+For example:
+1. Learn programming.
+2. Improve problem-solving skills.
+3. Learn web development.
+
+
+
+
+
